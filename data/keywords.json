@@ -1,0 +1,28 @@
+
+{
+  "apple": {
+    "title": "🍎 Apple",
+    "description": "Apple technology information.",
+    "category": "Technology"
+  },
+  "movie": {
+    "title": "🎬 Movies",
+    "description": "Movie information and database.",
+    "category": "Entertainment"
+  },
+  "tech": {
+    "title": "💻 Technology",
+    "description": "Latest technology information.",
+    "category": "Technology"
+  },
+  "games": {
+    "title": "🎮 Gaming",
+    "description": "Gaming related information.",
+    "category": "Entertainment"
+  },
+  "news": {
+    "title": "📰 News",
+    "description": "News information.",
+    "category": "Information"
+  }
+}
